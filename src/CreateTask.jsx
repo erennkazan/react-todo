@@ -13,7 +13,7 @@ function detectChange(event){
     <div className='todoDivArea'>
       <form className='todoDiv'>
         <input 
-        type="text"
+        type="text"asd
         className='form-control todoText mb-3'
         name='title'
         onChange={detectChange}
