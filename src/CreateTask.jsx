@@ -14,7 +14,7 @@ function detectChange(event){
             ...prevTask,
             [name]: value,
         }
-    })
+    });
     
 }
 function submitTask (event){
